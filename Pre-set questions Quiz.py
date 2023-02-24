@@ -1,5 +1,8 @@
+# Question List
 listq = [ "What is the capital of France?", "Who was the first president of the United States?", "Who painted the Mona Lisa?", "Who wrote the novel To Kill a Mockingbird?", "In what year did World War II end?", "What is the largest ocean in the world?", "Who discovered penicillin?", "What is the smallest country in the world by land area?", "What is the chemical symbol for gold?", "What is the name of the first man to walk on the moon?"]
+# Answer List
 lista = [ "Paris", "George Washington", "Leonardo da Vinci", "Harper Lee", "1945", "Pacific Ocean", "Alexander Fleming", "Vatican City", "Au", "Neil Armstrong"]
+# Wrong Options lists
 listw1 = [ "Marseille", "Thomas Jefferson", "Michelangelo", "Mark Twain", "1939", "Atlantic Ocean", "Isaac Newton", "Maldives", "Ag", "Buzz Aldrin"]
 listw2 = [ "Lyon", "Barack Obama", "Raphael", "Ernest Hemingway", "1944", "Indian Ocean", "Louis Pasteur", "Bahrain", "Al", "Michael Collins"]
 listw3 = [ "Bordeaux", "John Adams", "Titian", "F. Scott Fitzgerald", "1941", "Arctic Ocean", "Albert Einstein", "Monaco", "Ar", "Edwin Aldrin"]
